@@ -4,7 +4,7 @@
 
 DSF Principles
 
-Learn more about DSF Principles at https://govcy.gitlab.io/dsf-principles
+Learn more about DSF Principles at https://gov-cy.github.io/dsf-principles/public/index.html
 
 ---
 
