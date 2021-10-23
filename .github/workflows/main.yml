@@ -1,6 +1,6 @@
 on: [push]
 
-name: okteto-preview-env
+name: okteto-preview-env-kypky
 
 jobs:
 
@@ -16,4 +16,4 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        name: dev-previews-dsf
+        name: dev-previews-dsf-kypky
